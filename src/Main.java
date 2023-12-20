@@ -7,6 +7,6 @@ public class Main {
         boss.bossWeapon.setWeaponName("Fist Of Hope");
         System.out.println("Weapon type: " + boss.bossWeapon.getWeaponType() +
                 "\nWeapon name: " + boss.bossWeapon.getWeaponName() +
-                "\nHealth: " + boss.getHealth() + "\nDamage: " + boss.getDamage());
+                "\nHealth: " + boss.getHealth() + "\nDamage:  " + boss.getDamage());
     }
 }
